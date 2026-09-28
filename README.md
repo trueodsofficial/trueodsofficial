@@ -7,21 +7,25 @@
 
 We build tools for high-resolution **360° ODS and VR180** production — with correct binocular parallax under Lumen, 8K stereo frames in minutes, seamless 360° volumetric fog and linear HDR masters.
 
-[Explore TRUEODS](https://github.com/trueodsofficial/trueods) · [Quick start](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md#english) · [Get support](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md#english)
+[Explore TRUEODS](https://github.com/trueodsofficial/trueods) · [Sample downloads](https://github.com/trueodsofficial/trueods#sample-downloads) · [Quick start](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md#english) · [Get support](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md#english)
 
 ## From one workstation to a production team
 
-| Standard | Pro |
+| TrueODS (base edition) | TrueODS Distributed |
 | :--- | :--- |
-| Complete stereo-panorama rendering for independent creators and single-workstation projects. | Everything in Standard, plus **Engine-Level Temporal Lock** and **Multi-Machine Rendering** for team production. |
+| Complete stereo-panorama rendering for independent creators and single-workstation projects. | Everything in the base edition, plus **Engine-Level Temporal Lock** and **Multi-Machine Rendering** for team production. |
 
-**Pro keeps the scene's timing connected across separately rendered sections.** Multi-Machine Rendering automates configuration checks, frame-range allocation, and output completeness checks; you deploy the project and start or resume rendering on each machine yourself. Unbaked simulations, random or externally driven effects, and lighting or effects that need several frames to settle still need caching, warm-up and a check at each join.
+**TrueODS Distributed keeps the scene's timing connected across separately rendered sections.** Multi-Machine Rendering automates configuration checks, frame-range allocation, and output completeness checks; you deploy the project and start or resume rendering on each machine yourself. Unbaked simulations, random or externally driven effects, and lighting or effects that need several frames to settle still need caching, warm-up and a check at each join.
 
 [Compare the editions →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md#english)
 
 ## Correct left/right-eye parallax in every direction
 
 ![Interior — alternating left and right eye](media/showcase/interior-stereo.webp)
+
+[JPG · 26.5 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.jpg) · [PNG original · 295.8 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.png)
+
+<sub>Ghosting at the top and bottom poles comes from Pole Mono Merge, not a rendering artifact.</sub>
 
 A left/right-eye preview of a stereo panorama. [See more renders and output details →](https://github.com/trueodsofficial/trueods#see-the-result)
 

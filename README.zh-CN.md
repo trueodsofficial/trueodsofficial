@@ -7,21 +7,25 @@
 
 我们为高分辨率 **360° ODS 与 VR180** 制作开发渲染工具，提供 Lumen 下正确的双眼视差、分钟级 8K 双眼渲染、360° 无缝体积雾和线性 HDR 母版。
 
-[了解 TRUEODS](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md) · [快速上手](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md) · [获得支持](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md)
+[了解 TRUEODS](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md) · [样片下载](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md#样片下载) · [快速上手](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md) · [获得支持](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md)
 
 ## 从一台工作站，到团队协作
 
-| Standard 标准版 | Pro 专业版 |
+| TrueODS 基础版 | TrueODS Distributed（分布式渲染版） |
 | :--- | :--- |
-| 完整的立体全景渲染能力，适合独立创作者与单机制作。 | 包含标准版全部能力，增加团队制作所需的**引擎级时序锁定**与**多机协同渲染**。 |
+| 完整的立体全景渲染能力，适合独立创作者与单机制作。 | 包含基础版全部能力，增加团队制作所需的**引擎级时序锁定**与**多机协同渲染**。 |
 
-**Pro 让分开渲染的片段保持场景时间连贯**。多机协同渲染自动校验配置、分配帧段、检查收帧完整性；工程部署以及每台机器的启动与续渲由你完成。未烘焙的模拟、随机或外部驱动的效果，以及需要多帧才能稳定的光照与效果，仍需缓存、预热与接点检查。
+**分布式渲染版让分开渲染的片段保持场景时间连贯**。多机协同渲染自动校验配置、分配帧段、检查收帧完整性；工程部署以及每台机器的启动与续渲由你完成。未烘焙的模拟、随机或外部驱动的效果，以及需要多帧才能稳定的光照与效果，仍需缓存、预热与接点检查。
 
 [查看版本比较 →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md)
 
 ## 环顾四周，都有正确的左右视差
 
 ![内景 — 左右眼交替展示双眼视差](media/showcase/interior-stereo.webp)
+
+[JPG · 26.5 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.jpg) · [PNG 原图 · 295.8 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.png)
+
+<sub>上下两极的重影来自 Pole Mono Merge（单眼融合），并非渲染瑕疵。</sub>
 
 左右眼交替的全景预览。[查看更多画面与输出说明 →](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md#看实际效果)
 
