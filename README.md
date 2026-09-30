@@ -5,7 +5,7 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-We build tools for high-resolution **360° ODS and VR180** production — with correct binocular parallax under Lumen, 8K stereo frames in minutes, seamless 360° volumetric fog and linear HDR masters.
+We build tools for high-resolution **360° ODS and VR180** production — with correct stereo parallax under Lumen, 8K stereo frames in minutes, seamless 360° volumetric fog and linear HDR masters.
 
 [Explore TRUEODS](https://github.com/trueodsofficial/trueods) · [Sample downloads](https://github.com/trueodsofficial/trueods#sample-downloads) · [Quick start](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md#english) · [Get support](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md#english)
 
@@ -19,7 +19,7 @@ We build tools for high-resolution **360° ODS and VR180** production — with c
 
 [Compare the editions →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md#english)
 
-## Correct left/right-eye parallax in every direction
+## Correct stereo parallax in every direction
 
 ![Interior — alternating left and right eye](media/showcase/interior-stereo.webp)
 

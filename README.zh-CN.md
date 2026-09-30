@@ -5,7 +5,7 @@
 
 [English](README.md) · **简体中文**
 
-我们为高分辨率 **360° ODS 与 VR180** 制作开发渲染工具，提供 Lumen 下正确的双眼视差、分钟级 8K 双眼渲染、360° 无缝体积雾和线性 HDR 母版。
+我们为高分辨率 **360° ODS 与 VR180** 制作开发渲染工具，提供 Lumen 下正确立体视差、分钟级 8K 双眼渲染、360° 无缝体积雾和线性 HDR 母版。
 
 [了解 TRUEODS](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md) · [样片下载](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md#样片下载) · [快速上手](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md) · [获得支持](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md)
 
@@ -19,9 +19,9 @@
 
 [查看版本比较 →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md)
 
-## 环顾四周，都有正确的左右视差
+## 每个方向都有正确立体视差
 
-![内景 — 左右眼交替展示双眼视差](media/showcase/interior-stereo.webp)
+![内景 — 左右眼交替展示立体视差](media/showcase/interior-stereo.webp)
 
 [JPG · 26.5 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.jpg) · [PNG 原图 · 295.8 MB](https://github.com/trueodsofficial/trueods/releases/download/samples-20260928/coffee01_00108409.png)
 
