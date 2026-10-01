@@ -5,7 +5,11 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-Our tools for high-resolution **360° ODS and VR180** production deliver correct stereo parallax with Lumen, 8K stereo frames in minutes, seamless 360° volumetric fog and linear HDR masters.
+Our tools for high-resolution **360° ODS and VR180** production deliver correct stereo parallax with Lumen, 8K stereo frames in minutes, seamless volumetric rendering and linear HDR masters.
+
+Supported volume types include **height fog and volumetric fog, mesh-based volume materials, Local Fog Volumes, Volumetric Clouds, and VDB / Heterogeneous Volumes**. Custom fog effects and particle cards for steam, rain, airborne dust and smoke are also supported.
+
+<sub>Published benchmark figures were measured with plugin Version 67 (v12).</sub>
 
 [Explore TRUEODS](https://github.com/trueodsofficial/trueods) · [Sample downloads](https://github.com/trueodsofficial/trueods#sample-downloads) · [Quick start](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md#english) · [Get support](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md#english)
 
