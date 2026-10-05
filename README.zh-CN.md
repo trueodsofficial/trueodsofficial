@@ -11,7 +11,7 @@
 
 <sub>已公布的性能数据使用插件 Version 67（v12）实测。</sub>
 
-[了解 TRUEODS](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md) · [样片下载](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md#样片下载) · [快速上手](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.md) · [获得支持](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.md)
+[了解 TRUEODS](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md) · [样片下载](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md#样片下载) · [快速上手](https://github.com/trueodsofficial/trueods/blob/main/docs/QUICKSTART.zh-CN.md) · [获得支持](https://github.com/trueodsofficial/trueods/blob/main/docs/SUPPORT.zh-CN.md)
 
 ## 从一台工作站，到团队协作
 
@@ -21,7 +21,7 @@
 
 **分布式渲染版让分开渲染的片段保持场景时间连贯**。多机协同渲染自动校验配置、分配帧段、检查收帧完整性；工程部署以及每台机器的启动与续渲由你完成。未烘焙的模拟、随机或外部驱动的效果，以及需要多帧才能稳定的光照与效果，仍需缓存、预热与接点检查。
 
-[查看版本比较 →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md)
+[查看版本比较 →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.zh-CN.md)
 
 ## 每个方向都有正确立体视差
 
@@ -39,5 +39,5 @@
 
 - **产品文档**：[TRUEODS 使用指南](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md)
 - **支持邮箱**：[trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
-- **售后群**：[申请加入 Telegram 售后群](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.md)；邮件发送订单凭证，回复获取邀请链接。
-- **上线状态**：[正在准备 Fab 上线](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.md)
+- **售后群**：[申请加入 Telegram 售后群](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.zh-CN.md)；邮件发送订单凭证，回复获取邀请链接。
+- **上线状态**：[正在准备 Fab 上线](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.zh-CN.md)
