@@ -7,7 +7,7 @@
 
 Our tools for high-resolution **360° ODS and VR180** production deliver correct stereo parallax with Lumen, 8K stereo frames in minutes, seamless volumetric rendering and linear HDR masters.
 
-Supported volume types include **height fog and volumetric fog, mesh-based volume materials, Local Fog Volumes, Volumetric Clouds, and VDB / Heterogeneous Volumes**. Custom fog effects and particle cards for steam, rain, airborne dust and smoke are also supported.
+Supported volume types include **height fog and volumetric fog, mesh-based volume materials, Local Fog Volumes, Volumetric Clouds, and VDB / Heterogeneous Volumes**. Niagara sprites and ribbons render seamlessly with default settings, using either CPU or GPU simulation. No additional configuration is needed. Particle cards for steam, rain, airborne dust and smoke, as well as custom fog effects, are also supported.
 
 <sub>Published benchmark figures were measured with plugin Version 67 (v12).</sub>
 

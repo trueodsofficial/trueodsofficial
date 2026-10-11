@@ -7,7 +7,7 @@
 
 我们为高分辨率 **360° ODS 与 VR180** 制作开发渲染工具，提供 Lumen 下正确立体视差、分钟级 8K 双眼渲染、无缝体积渲染和线性 HDR 母版。
 
-支持的体积类型包括**高度雾与体积雾、网格体积材质、Local Fog Volume（局部雾体积）、Volumetric Cloud（体积云），以及 VDB / Heterogeneous Volumes（异质体积）**。也支持自定义雾效果，以及用于蒸汽、雨、浮尘和烟的粒子贴片。
+支持的体积类型包括**高度雾与体积雾、网格体积材质、Local Fog Volume（局部雾体积）、Volumetric Cloud（体积云），以及 VDB / Heterogeneous Volumes（异质体积）**。Niagara 的 sprite 和拖尾（ribbon）使用默认设置即可无缝渲染，CPU 或 GPU 模拟均适用，不需要额外配置。也支持用于蒸汽、雨、浮尘和烟的粒子贴片，以及自定义雾效果。
 
 <sub>已公布的性能数据使用插件 Version 67（v12）实测。</sub>
 
