@@ -38,6 +38,7 @@ A left/right-eye preview of a stereo panorama. [See more renders and output deta
 ## Stay in touch
 
 - **Documentation:** [TRUEODS product guide](https://github.com/trueodsofficial/trueods)
+- **Before buying:** [Pre-sales questions and demos (Telegram)](https://t.me/+jWlt-pgGHtRlOGUx)
 - **Email:** [trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
 - **Support group:** [Request to join the Telegram support group](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.md) — email proof of purchase to receive an invitation link.
 - **Availability:** [Preparing for our Fab launch](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.md)

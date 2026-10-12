@@ -38,6 +38,7 @@
 ## 联系与文档
 
 - **产品文档**：[TRUEODS 使用指南](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md)
+- **购买前咨询**：[售前咨询与效果交流（Telegram）](https://t.me/+jWlt-pgGHtRlOGUx)
 - **支持邮箱**：[trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
 - **售后群**：[申请加入 Telegram 售后群](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.zh-CN.md)；邮件发送订单凭证，回复获取邀请链接。
 - **上线状态**：[正在准备 Fab 上线](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.zh-CN.md)
