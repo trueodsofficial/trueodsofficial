@@ -23,7 +23,7 @@ Supported volume types include **height fog and volumetric fog, mesh-based volum
 
 [Compare the editions →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.md)
 
-[TrueODS base edition rendering tutorial (English)](https://youtu.be/ZRPQQ-HpOhc) · [Multi-machine rendering tutorial (English)](https://youtu.be/oX5Qz-8jCqE)
+[TrueODS base edition rendering tutorial (English)](https://youtu.be/SjReJf0U9AI) · [Multi-machine rendering tutorial (English)](https://youtu.be/oX5Qz-8jCqE)
 
 ## Correct stereo parallax in every direction
 
