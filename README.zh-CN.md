@@ -40,7 +40,7 @@
 ## 联系与文档
 
 - **产品文档**：[TRUEODS 使用指南](https://github.com/trueodsofficial/trueods/blob/main/README.zh-CN.md)
-- **购买前咨询**：[售前咨询与效果交流（Telegram）](https://t.me/+jWlt-pgGHtRlOGUx)
+- **购买前咨询**：[售前咨询与效果交流（Telegram）](https://t.me/+jWlt-pgGHtRlOGUx) · [WhatsApp 售前群](https://chat.whatsapp.com/KEIad2ctdbb1oQp1wuYheH?mode=gi_t)
 - **支持邮箱**：[trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
 - **售后群**：[申请加入 Telegram 售后群](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.zh-CN.md)；邮件发送订单凭证，回复获取邀请链接。
 - **Fab 购买入口**：[TrueODS 基础版](https://www.fab.com/listings/ad60562e-7897-46f6-995b-6e75639972fb) — **Personal：US$399.99** · [TrueODS Distributed（分布式渲染版）](https://www.fab.com/listings/c6178ce6-987a-4b29-9f55-033ed30df4bf) — **Personal：US$1,499.99**。
