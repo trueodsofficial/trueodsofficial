@@ -23,7 +23,7 @@
 
 [查看版本比较 →](https://github.com/trueodsofficial/trueods/blob/main/docs/EDITIONS.zh-CN.md)
 
-[TrueODS 基础版操作教程（中文）](https://youtu.be/2gzMn0yGxwM) · [多机渲染操作教程（中文）](https://youtu.be/dhQPH_ifIlo)
+[TrueODS 基础版操作教程（中文）](https://www.bilibili.com/video/BV1MSpz6QEHJ/) · [多机渲染操作教程（中文）](https://www.bilibili.com/video/BV1yjpz65Eqy/)
 
 ## 每个方向都有正确立体视差
 
