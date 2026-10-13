@@ -5,7 +5,7 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-Our tools for high-resolution **360° ODS and VR180** production deliver correct stereo parallax with Lumen, 8K stereo frames in minutes, seamless volumetric rendering and linear HDR masters.
+Our tools for high-resolution **360° ODS and VR180 ODS** production deliver correct stereo parallax with Lumen, 8K stereo frames in minutes, seamless volumetric rendering and linear HDR masters.
 
 Supported volume types include **height fog and volumetric fog, mesh-based volume materials, Local Fog Volumes, Volumetric Clouds, and VDB / Heterogeneous Volumes**. Niagara sprites and ribbons render seamlessly with default settings, using either CPU or GPU simulation. No additional configuration is needed. Particle cards for steam, rain, airborne dust and smoke, as well as custom fog effects, are also supported.
 
@@ -43,4 +43,4 @@ A left/right-eye preview of a stereo panorama. [See more renders and output deta
 - **Before buying:** [Pre-sales questions and demos (Telegram)](https://t.me/+jWlt-pgGHtRlOGUx)
 - **Email:** [trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
 - **Support group:** [Request to join the Telegram support group](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.md) — email proof of purchase to receive an invitation link.
-- **Availability:** [Preparing for our Fab launch](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.md)
+- **Available on Fab:** [TrueODS (base edition)](https://www.fab.com/listings/ad60562e-7897-46f6-995b-6e75639972fb) — **Personal: US$399.99** · [TrueODS Distributed](https://www.fab.com/listings/c6178ce6-987a-4b29-9f55-033ed30df4bf) — **Personal: US$1,499.99**.

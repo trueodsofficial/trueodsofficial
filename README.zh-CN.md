@@ -5,7 +5,7 @@
 
 [English](README.md) · **简体中文**
 
-我们为高分辨率 **360° ODS 与 VR180** 制作开发渲染工具，提供 Lumen 下正确立体视差、分钟级 8K 双眼渲染、无缝体积渲染和线性 HDR 母版。
+我们为高分辨率 **360° ODS 与 VR180 ODS** 制作开发渲染工具，提供 Lumen 下正确立体视差、分钟级 8K 双眼渲染、无缝体积渲染和线性 HDR 母版。
 
 支持的体积类型包括**高度雾与体积雾、网格体积材质、Local Fog Volume（局部雾体积）、Volumetric Cloud（体积云），以及 VDB / Heterogeneous Volumes（异质体积）**。Niagara 的 sprite 和拖尾（ribbon）使用默认设置即可无缝渲染，CPU 或 GPU 模拟均适用，不需要额外配置。也支持用于蒸汽、雨、浮尘和烟的粒子贴片，以及自定义雾效果。
 
@@ -43,4 +43,4 @@
 - **购买前咨询**：[售前咨询与效果交流（Telegram）](https://t.me/+jWlt-pgGHtRlOGUx)
 - **支持邮箱**：[trueodssupport@gmail.com](mailto:trueodssupport@gmail.com)
 - **售后群**：[申请加入 Telegram 售后群](https://github.com/trueodsofficial/trueods/blob/main/docs/COMMUNITY.zh-CN.md)；邮件发送订单凭证，回复获取邀请链接。
-- **上线状态**：[正在准备 Fab 上线](https://github.com/trueodsofficial/trueods/blob/main/docs/CHANGELOG.zh-CN.md)
+- **Fab 购买入口**：[TrueODS 基础版](https://www.fab.com/listings/ad60562e-7897-46f6-995b-6e75639972fb) — **Personal：US$399.99** · [TrueODS Distributed（分布式渲染版）](https://www.fab.com/listings/c6178ce6-987a-4b29-9f55-033ed30df4bf) — **Personal：US$1,499.99**。
